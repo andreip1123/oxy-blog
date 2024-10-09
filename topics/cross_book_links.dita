@@ -9,8 +9,8 @@
         </critdates>
     </prolog>
     <body>
-        <p>We use cross-book links in our DITA books, and I wanted to share some of our experiences
-            in using them.</p>
+        <p>We use cross-book test links in our DITA books, and I wanted to share some of our
+            experiences in using them.</p>
         <p>A <term>cross-book link</term> is a link that crosses book boundaries. More specifically,
             it is a link from a  topic in one book to another topic in another book. Cross-book
             links are made possible by the introduction of <term>keyscopes</term> in DITA 1.3. For
