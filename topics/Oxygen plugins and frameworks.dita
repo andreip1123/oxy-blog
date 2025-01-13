@@ -8,7 +8,7 @@
   <body>
     <p>All resources, Frameworks and Plugins which we make publicly available to contributors can be
       found on the <b>oxygenxml</b> GitHub group:<xref href="https://github.com/oxygenxml/"
-        format="html" scope="external"/>:<ul id="ul_a1b_2bx_fhb">
+        format="html" scope="external"/>:<ul id="ul_a1b_2bx_fhb" testmerge="true">
         <li>
           <p>Plugins: <xref
               href="https://github.com/search?q=topic:oxygen-standalone-plugin+org:oxygenxml&amp;type=Repositories"
