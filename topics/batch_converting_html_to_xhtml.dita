@@ -20,7 +20,7 @@
         <p>There are lots of open source projects that deliver processors that can convert
         <b>HTML</b> to its wellformed <b>XHTML</b> equivalent. For this blog post, we'll use <xref
         href="http://www.html-tidy.org/" format="html" scope="external">HTML Tidy</xref>. Here are
-      some steps to automate this process:<ol id="ol_qmj_mmz_21b">
+      some steps to automate this process: master goes forward<ol id="ol_qmj_mmz_21b">
         <li>Create two new folders on your hard drive (for example, I created one on my
             <b>Desktop</b>: <codeph>C:\Users\radu_coravu\Desktop\tidy</codeph>).</li>
         <li>Download the HTML Tidy executable specific for your platform (<xref
